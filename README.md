@@ -10,7 +10,7 @@ Repository ini berisi dua project untuk memenuhi UTS Pemrograman Web 1, yaitu:
 ## Project 1 – Book Lovers  
 Berikut adalah tampilan dari project pertama:
 
-### • Halaman Informasi Perusahaan
+### • Halaman Informasi Perusahaan (Book Lovers)
 <img width="1920" alt="project1_ss (1)" src="https://github.com/user-attachments/assets/1050ec8f-4892-41f8-b2da-d17bb472103e" />
 
 ### • Detail Informasi
